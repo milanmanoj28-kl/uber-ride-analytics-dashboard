@@ -42,8 +42,4 @@ This project visualizes ride-hailing operations data to surface booking performa
 - Lost bookings account for a notable share (~38%) of total bookings, highlighting a cancellation trend worth investigating
 - Khandsa and Ashram emerge as the top pickup and drop hubs respectively
 
-## Dataset
 
-Sourced externally (shared dataset used for Power BI practice/learning purposes).
-
-## File Structure
