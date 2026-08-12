@@ -4,7 +4,10 @@ An interactive Power BI dashboard analyzing Uber ride booking data, covering com
 
 ## Dashboard Preview
 
-*(Add a screenshot or GIF of the dashboard here — drag the image into this README on GitHub, e.g. `![Dashboard Preview](images/dashboard_overview.png)`)*
+<img width="3300" height="2550" alt="Uber Dashboard_page-0001" src="https://github.com/user-attachments/assets/383f595b-8ec6-45d0-99e1-58a0c623a486" />
+
+<img width="3300" height="2550" alt="Uber Dashboard_page-0002" src="https://github.com/user-attachments/assets/6f7897b1-2fdb-40c6-bc96-cb099e52e969" />
+
 
 ## Overview
 
